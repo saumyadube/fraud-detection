@@ -1,0 +1,18 @@
+# Dataset
+creditcard.csv
+
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Cache
+.ipynb_checkpoints/
+
+# Saved ML Models
+*.pkl
+
+# VS Code Settings
+.vscode/
